@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+KarmarkarKarp/KarmarkarKarp.sln
+KarmarkarKarp/KarmarkarKarp.vcxproj
+KarmarkarKarp/KarmarkarKarp.vcxproj.filters
