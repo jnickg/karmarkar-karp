@@ -354,7 +354,7 @@ static void PrintArray(const int array[], int n) {
 /**********************************************************
  * main							                               *
  **********************************************************/
-main() {
+int main() {
 	int	loop_cnt;
 	int* random_arr;	// initial "solution" of 100 random integers
 	int* hill_climing_arr;
